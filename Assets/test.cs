@@ -4,15 +4,16 @@ using UnityEngine;
 
 public class test : MonoBehaviour
 {
+    int a = 5;
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("ff14");
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        Debug.Log("ff14");
     }
 }
